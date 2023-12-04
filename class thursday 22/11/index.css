@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blueviolet;
+    display: grid;
+    min-height: 100vh;
+    place-content: center;
+    
+    
+}
+
+/* #std{
+    height: 30px;
+    width: 60px;
+}
+#met{
+    height: 30px;
+    width: 60px; */
+/* } */
+.mainContainer > div{
+    margin: 10px;
+    border-radius: 50px;
+    block-size: 30px;
+    
+}
+
+    
+
